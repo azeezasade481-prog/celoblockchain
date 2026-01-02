@@ -1,4 +1,4 @@
-## Celo Blockchain
+Adeyinka44 Celo Blockchain
 
 > [!IMPORTANT]
 > celo-blockchain is in maintainance mode and will only be updated for critical issues. Do not use it for new projects and please migrate to the [op-geth](https://github.com/celo-org/op-geth/) implementation.
